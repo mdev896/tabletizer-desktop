@@ -34,7 +34,7 @@ It listens for input events (touch, stylus, gestures) sent from the **Tabletizer
 
 ```bash
 # clone the repo
-git clone https://github.com/mdev896/tabletizer-desktop.git
+git clone https://github.com/mehmedaltug/tabletizer-desktop.git
 
 cd tabletizer-desktop
 

@@ -1,27 +1,27 @@
-# 💻 Tabletizer Desktop
+# Tabletizer Desktop
 
 This is the **desktop companion app** for the **Tabletizer** project — a system designed to repurpose old tablets or phones as **wireless drawing tablets** for PCs or laptops via socket connections.
 
 ---
 
-## 🧠 Overview
+## Overview
 
 **Tabletizer Desktop** handles the **receiver side** of the communication.
 It listens for input events (touch, stylus, gestures) sent from the **Tabletizer Mobile** app and maps them to system-level pointer movements, making your old device act as a pen tablet.
 
 ---
 
-## 🚀 Features
+## Features
 
-* 🔌 Real-time socket communication between mobile & desktop
-* 🖋️ Converts touch input to precise pointer data
-* 🪶 Lightweight, Electron-based desktop client
-* 🧱 Modular architecture (mobile + desktop separation)
-* 🧰 Built for cross-platform use (Windows, Linux, macOS)
+* Real-time socket communication between mobile & desktop
+* Converts touch input to precise pointer data
+* Lightweight, Electron-based desktop client
+* Modular architecture (mobile + desktop separation)
+* Built for cross-platform use (Windows, Linux, macOS)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * **Electron Forge**
 * **Node.js**
@@ -30,7 +30,7 @@ It listens for input events (touch, stylus, gestures) sent from the **Tabletizer
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 # clone the repo
@@ -47,7 +47,7 @@ npm start
 
 ---
 
-## ⚙️ Usage
+## Usage
 
 1. Start the **Tabletizer Desktop** app — it will open a local socket server.
 2. Launch the **Tabletizer Mobile** app on your phone or tablet.
@@ -58,7 +58,7 @@ You can adjust resolution scaling or pointer sensitivity from the UI (coming soo
 
 ---
 
-## 🔧 Folder Structure
+## Folder Structure
 
 ```
 tabletizer-desktop/
@@ -71,9 +71,9 @@ tabletizer-desktop/
 
 ---
 
-## 🧩 Related Repositories
+## Related Repositories
 
-* [📱 Tabletizer Mobile](https://github.com/mdev896/tabletizer-mobile)
+* [Tabletizer Mobile](https://github.com/mdev896/tabletizer-mobile)
 
 ---
 

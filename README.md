@@ -77,6 +77,6 @@ tabletizer-desktop/
 
 ---
 
-## 📄 License
+## License
 
-MIT © 2025 mdev896
+MIT © 2025 mehmedaltug
